@@ -1,0 +1,27 @@
+{
+  "name": "untitled-folder-2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Premium Next.js portfolio CV for Nguyen Chi Tin",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "nextjs",
+    "portfolio",
+    "cv",
+    "salesforce"
+  ],
+  "dependencies": {
+    "lucide-react": "^1.16.0",
+    "next": "^16.2.6",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-particles": "^2.12.2",
+    "simple-icons": "^16.19.0",
+    "tsparticles-engine": "^2.12.0",
+    "tsparticles-slim": "^2.12.0"
+  }
+}
